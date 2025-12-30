@@ -24,3 +24,11 @@ AEE San Diego connects [[Energy Engineering|energy engineers]] from around the S
 
 - [[San Diego Gas and Electric]]
 - [[San Diego Community Power]]
+- [[Clean Energy Alliance]]
+
+# Colleges and Universities
+
+- [[University of California San Diego]]
+- [[San Diego State University]]
+- [[California State University San Marcos]]
+
