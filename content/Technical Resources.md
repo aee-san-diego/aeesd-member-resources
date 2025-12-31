@@ -18,5 +18,11 @@
 ---
 
 - Residential
+	- [[Lighting]]
+	- [[HVAC]]
+	- [[Cooking]]
+	- [[Water Heating]]
+	- [[Plug Loads]]
+	- [[EV Charging]]
 - Commercial
 - Industrial
