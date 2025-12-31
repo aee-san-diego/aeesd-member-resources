@@ -23,8 +23,7 @@ You're probably here because you have a career in energy engineering; or you're 
 
 Explore [[Career Resources]]
 
-
-# 💼 Business of Engineering
+# 💼 Business Resources
 ---
 
 Engineering isn't just about technical expertise, it's also about understanding how projects get funded, how to communicate with stakeholders, and how to navigate the business side of the industry.
