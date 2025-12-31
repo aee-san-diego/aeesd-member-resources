@@ -1,6 +1,7 @@
-AEE San Diego connects [[Energy Engineering|energy engineers]] from around the San Diego region. We think of the region in a few different ways:
+# About San Diego
+---
 
-- The [[County of San Diego]] which includes 18 incorporated cities:
+AEE San Diego connects [[Energy Engineering|energy engineers]] from around the San Diego region. Geographically, the region is encompassed by the [[County of San Diego]] which includes these incorporated cities:
 
 1. Carlsbad
 2. Chula Vista
@@ -17,18 +18,12 @@ AEE San Diego connects [[Energy Engineering|energy engineers]] from around the S
 13. Poway
 14. San Diego
 15. San Marcos
-16. Solana Beach
-17. Vista
+16. Santee
+17. Solana Beach
+18. Vista
 
-# Utilities
+# See Also
+---
 
-- [[San Diego Gas and Electric]]
-- [[San Diego Community Power]]
-- [[Clean Energy Alliance]]
-
-# Colleges and Universities
-
-- [[University of California San Diego]]
-- [[San Diego State University]]
-- [[California State University San Marcos]]
+[[San Diego Employers]]
 
