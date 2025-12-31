@@ -1,11 +1,14 @@
-# Employment
+
 ---
+# Employment
 
 - [[Working for Others]] / Finding a job with a [[San Diego Employers|San Diego employer]]
 - [[Working for Yourself]] / [[Starting a Business]]
+- [[Making it Work - The Reality of Employment]]
+- [[Engineering Career Progression]]
 
-# Education
 ---
+# Education
 
 [[Energy Engineering|Energy engineering]] is a highly [[Energy Engineering is Highly Multidisciplinary|multi-disciplinary]] field that requires knowledge of many subjects. 
 
@@ -20,8 +23,9 @@ If you plan to practice engineering in California and use the title "engineer" p
 
 Most energy engineers pursue one of these four disciplines, as they align most closely with the multidisciplinary nature of energy work.
 
-# Registration and Certification
 ---
+# Registration and Certification
+
 ## Professional Engineer (PE) Licensure
 
 After completing an ABET-accredited engineering degree, the path to becoming a licensed Professional Engineer in California involves several steps:
@@ -41,3 +45,5 @@ In addition to (or sometimes instead of) PE licensure, many energy engineers pur
 - **AEE Certifications** - Professional credentials that demonstrate specialized knowledge; not legally required but often preferred or required by employers; recognize expertise in energy-specific topics not covered in traditional PE exams; do not substitute for PE licensure when it's legally required
 
 Many successful energy engineers hold both PE licensure and one or more AEE certifications, combining the legal authority to practice engineering with demonstrated expertise in energy-specific applications.
+
+---

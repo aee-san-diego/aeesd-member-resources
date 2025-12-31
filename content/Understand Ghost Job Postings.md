@@ -60,3 +60,7 @@ Don't let ghost jobs discourage you, but don't waste excessive time on them eith
 
 Remember that even legitimate job postings can languish due to bureaucracy, changing priorities, or poor HR processes. Not every slow-moving application is a ghost job—but knowing they exist helps you maintain perspective and not take the silence personally.
 
+---
+# See Also
+
+[[Company Culture]]

@@ -1,13 +1,15 @@
 # Before a Job Search Occurs
----
 
 - [[Why Companies Hire Engineers]]
 - [[How an Engineering Job is Created]]
 - [[Understand Ghost Job Postings]]
 - [[Risks of Hiring California Employees]]
+- Understand [[Company Culture]]
+- Understand [[Company Ownership Structures]]
 
-# Finding a Job
 ---
+# Finding a Job
+
 ## Searching
 
 1. Types of Engineering Employers in Energy
@@ -27,6 +29,9 @@ See: [[How Employers Review Applications]]
 
 ### Negotiating
 
+### Starting Your New Job
+
+See: [[Making it Work - The Reality of Employment]]
 
 # Career Stages
 ---
@@ -46,3 +51,7 @@ See: [[How Employers Review Applications]]
 ## Transition Points
 
 
+---
+# See Also
+
+[[Engineering Career Progression]]
