@@ -1,11 +1,12 @@
 --- 
-title: Welcome 
+title: 
 ---
 
 > [!warning]
 > The content on this site has been contributed by AEE San Diego chapter members in their individual capacity. This content is not officially endorsed by, nor does it reflect the official positions or opinions of: 
 > 
-> - Other AEE San Diego chapter members 
+> - The AEE San Diego Chapter, as a collective entity
+> - Any particular AEE San Diego chapter members 
 > - The Association of Energy Engineers (AEE), the international organization headquartered in Atlanta, Georgia 
 > - Any member's employer or affiliated organizations 
 > 
