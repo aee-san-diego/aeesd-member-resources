@@ -1,5 +1,3 @@
-
----
 # Employment
 
 - [[Working for Others]] / Finding a job with a [[San Diego Employers|San Diego employer]]
