@@ -1,3 +1,6 @@
+# Important Concepts
+- [[Quality]]
+
 # Utility Systems
 ---
 

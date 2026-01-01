@@ -33,9 +33,9 @@ It means picking your battles. Not every disagreement is worth fighting about. N
 
 It means finding ways to make the work tolerable or even satisfying despite the dysfunction. Maybe that's the technical challenges. Maybe it's the team you work with. Maybe it's just the paycheck and benefits while you build skills for the next move.
 
-## Managing Expectations and Protecting Yourself
+## Managing [[Realistic Expectations for Energy Engineers|Expectations]] and Protecting Yourself
 
-You're not going to change the [[Company Ownership Structures|ownership structure]] of your company. You're not going to single-handedly fix a toxic [[Company Culture|culture]]. You're not going to convince executives to abandon quarterly earnings pressure in favor of long-term thinking.
+You're not going to change the [[Company Ownership Structures|ownership structure]] of your company. You're not going to single-handedly fix a toxic [[Company Culture|culture]]. You're not going to convince executives to abandon [[Shareholder Primacy|quarterly earnings pressure]] in favor of long-term thinking.
 
 What you can do:
 
@@ -59,4 +59,7 @@ This is how most careers actually work. Not the fantasy version from career advi
 ---
 # See Also
 
-[[Career Resources]]
+- [[Career Resources]]
+- [[Company Culture]]
+- [[Company Ownership Structures]]
+- [[Shareholder Primacy]]

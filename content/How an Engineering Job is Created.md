@@ -144,6 +144,8 @@ Your early performance isn't just about doing good work—it's about proving the
 
 This is why your first year is so critical. You're not just learning the job; you're validating a business case.
 
+This is also referred to by Ed Zitron, in his article The Shareholder Supremacy, as "[[Shareholder Primacy|making rich people happy]]".
+
 ### Understanding Expectations
 
 The business case that created your job shapes what's expected:
@@ -158,3 +160,6 @@ The business case that created your job shapes what's expected:
 Your job didn't magically appear—it was created through a deliberate business process involving financial projections, internal approvals, and someone's professional credibility. Understanding this context makes you a more informed candidate during the job search and a more effective employee once hired. The hiring manager needs you to succeed almost as much as you need the job to work out, because your performance validates their judgment and business case.
 
 Remember this throughout your job search and early tenure: you're not just filling a position, you're helping someone prove they made a good business decision.
+
+---
+
