@@ -28,7 +28,13 @@ Energy engineers working in San Diego would commonly encounter steam systems in:
 	- Autoclave sterilization in medical device companies
 	- Heating in chemical facilitie
 - Building engineers regularly work with steam in HVAC systems where it drives absorption chillers for air conditioning or provides humidity control, and in commercial kitchens where it powers cooking equipment and dishwashing systems. 
+
+## Steamfitter Labor
+
+People who work on steam systems are called steamfitters and, in San Diego, are represented by [[Labor Unions]]
+
 # See Also
 ---
 
-[Steam Resources | TLV](https://www.tlv.com/en-us/steam-info)
+- [Steam Resources | TLV](https://www.tlv.com/en-us/steam-info)
+- [Spirax Sarco]([Spirax Sarco | First for Steam Solutions](https://www.spiraxsarco.com/))

@@ -28,3 +28,4 @@ Not standard in most typical AEC projects but common in energy projects. Post-oc
 # See Also
 - [[Standard Phases of Design]]
 - [[Energy Engineering is Part of the AEC Industry]]
+- [[Cost Estimating]]

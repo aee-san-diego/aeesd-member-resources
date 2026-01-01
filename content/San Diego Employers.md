@@ -29,6 +29,7 @@
 - Tetra Tech
 - Willdan ✅
 
+See also: [[San Diego Engineering Firms]]
 # Contractors
 ---
 
@@ -37,10 +38,24 @@
 - Mechanical
 - Electrical
 - Controls
+	- Climatec
+		- Alerton
+		- Distech
+		- Honeywell
+		- Tridium
+	- Honeywell
 	- Johnson Controls ✅
 	- Schneider Electric
 	- Siemens
+	- Sunbelt Controls
+		- Automated Logic
+		- Distech
+		- Loytec
+		- Reliable
+		- Tridium
+	- Trane
 
+See also: [[San Diego Contractors]]
 # Distributors
 ---
 
@@ -57,6 +72,7 @@
 ---
 
 - ABM ✅
+- Climatec
 - Engie ✅
 - Energy Systems Group (ESG)
 - NORESCO / Carrier ✅
@@ -66,10 +82,8 @@
 
 # Government
 ---
-
 ## Federal
 - NOAA
-
 ## State
 - California Energy Commission ✅
 ## Local
