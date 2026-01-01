@@ -6,6 +6,7 @@
 - [[Risks of Hiring California Employees]]
 - Understand [[Company Culture]]
 - Understand [[Company Ownership Structures]]
+- [[Networking]]
 
 ---
 # Finding a Job
@@ -21,35 +22,26 @@
 	- Why AEE chapter involvement matters for job searching
 	- The difference between posted jobs and "we'd create a job for the right person"
 
-### Applying
+## Applying
 
 See: [[How Employers Review Applications]]
 
-### Interviewing
+## Interviewing
 
-### Negotiating
+## Negotiating
 
-### Starting Your New Job
+## Starting Your New Job
 
 See: [[Making it Work - The Reality of Employment]]
 
+
 # Career Stages
 ---
-
 ## College and Pre-Career
-
-
 ## Your First Year
-
-
 ## Mid-Career
-
-
 ## Senior Level 
-
-
 ## Transition Points
-
 
 ---
 # See Also

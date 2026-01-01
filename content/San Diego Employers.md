@@ -68,11 +68,11 @@
 ---
 
 ## Federal
-
 - NOAA
 
+## State
+- California Energy Commission ✅
 ## Local
-
 - City of San Diego ✅
 - City of Chula Vista ✅
 
@@ -88,6 +88,7 @@
 # Real Estate
 ---
 
+- CBRE
 - Jones Lang LaSalle
 - Livcor ✅
 - Tishman Spear
