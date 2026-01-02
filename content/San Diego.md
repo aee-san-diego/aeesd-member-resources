@@ -1,7 +1,8 @@
 # About San Diego
 ---
+## Geography
 
-AEE San Diego connects [[Energy Engineering|energy engineers]] from around the San Diego region. Geographically, the region is encompassed by the [[County of San Diego]] which includes these incorporated cities:
+Geographically, the region is encompassed by the [[County of San Diego]] which includes these incorporated cities:
 
 1. Carlsbad
 2. Chula Vista
@@ -21,6 +22,10 @@ AEE San Diego connects [[Energy Engineering|energy engineers]] from around the S
 16. Santee
 17. Solana Beach
 18. Vista
+
+## Weather
+
+Weather, and weather data, is of particular importance to [[Energy Engineering|energy engineers]] because it drives energy usage for cooling, heating, and water pumping among other things. The San Diego Weather, and weather data, is more varied than in many locations due to the presence of microclimates and, so, a good energy engineer needs make an informed decision to select the correct [[San Diego Weather Data]] for analysis purposes.
 
 # See Also
 ---

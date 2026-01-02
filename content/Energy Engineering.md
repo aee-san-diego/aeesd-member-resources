@@ -1,8 +1,18 @@
 # Defined
 ---
-A single definition for energy engineering is challenging because [[Energy Engineering is Highly Multidisciplinary]]
 
+There is no single, universally cited "formal definition" of an energy engineer published by the [[Association of Energy Engineers]], although the organization has been instrumental in defining the profession through its comprehensive approach to professional standards, certification programs, and educational initiatives.
 
+Some indication of the challenge of defining energy engineering is that even Wikipedia categorizes energy engineering in two branches of engineering:
+
+1. As a sub-branch of mechanical engineering
+2. As a sub-branch in the interdisciplinary category
+
+By reformulating some of what is written in Wikipedia, we might define energy engineering more in terms of what an energy engineer does versus what an energy engineer is:
+
+- Energy engineers work in various roles (research, design, application, policy) to identify and recommend/specify technologies that represent the most efficient and sustainable ways to meet the world's demand for energy.
+- Energy engineering is one of the most recent engineering disciplines to emerge and is a highly [[Energy Engineering is Highly Multidisciplinary|multidisciplinary field]].
+- Energy engineering plays a critical role in addressing global challenges like [[Climate Change]], reducing [[Greenhouse Gas Emissions]], and the transition from fossil fuels to renewable energy sources.
 
 # History of Energy Engineering
 ---
@@ -39,5 +49,7 @@ This is exactly why the founding of AEE in 1977 was so significant - it helped *
 # See Also
 ---
 
-[[Engineering in California]]
-[[Energy Engineering is Part of the AEC Industry]]
+- https://en.wikipedia.org/wiki/Energy_engineering
+- https://en.wikipedia.org/wiki/List_of_engineering_branches
+- [[Engineering in California]]
+- [[Energy Engineering is Part of the AEC Industry]]
