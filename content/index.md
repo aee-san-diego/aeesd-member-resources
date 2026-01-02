@@ -1,5 +1,5 @@
 --- 
-title: Welcome Energy Engineers
+title: AEE San Diego Member Resources
 ---
 
 > [!warning]
@@ -37,5 +37,3 @@ Explore [[Business Resources]]
 Deep dives into the technical aspects of energy engineering, from calculation methods to equipment specifications to industry standards.
 
 Explore [[Technical Resources]]
-
----
