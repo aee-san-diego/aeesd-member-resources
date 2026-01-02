@@ -18,3 +18,5 @@ Sources:
 - [[The Purpose of Business]]
 - [[Company Culture]]
 - [[Company Ownership Structures]]
+- [[Conflicts of Interest]]
+- [[Ethics]]

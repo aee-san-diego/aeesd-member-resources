@@ -41,7 +41,7 @@ What you can do:
 
 - **Document your work and achievements.** Keep a record of projects, contributions, and impacts. You'll need this for performance reviews, promotions, and especially for your next job search.
 - **Build skills that are portable.** Don't just become an expert in your company's specific proprietary systems. Develop expertise that translates to other employers.
-- **Maintain your network.** Stay connected with colleagues, former coworkers, and industry contacts. Most jobs come through referrals, not applications.
+- **Maintain your network.** Build [[Relationships|relationships]] and stay connected with colleagues, former coworkers, and industry contacts. Most jobs come through referrals, not applications.
 - **Keep your resume current.** Update it when you finish major projects or gain new skills, not just when you're job hunting.
 - **Understand your finances.** Know how long you could survive without this job. Having even a modest emergency fund changes the power dynamic.
 - **Watch for warning signs.** Private equity acquisition? Mass layoffs? Executives talking about "efficiency"? Start looking before you're forced to.

@@ -39,7 +39,7 @@ This means your real professional development isn't just about accumulating tech
 - Testing and balancing contractors who know what flow rates are realistic
 - Utility representatives who understand the rebate programs and interconnection requirements
 
-These relationships are infrastructure. When you change jobs, this network is often more valuable than the technical skills you've accumulated, because you can learn a new building type but you can't instantly recreate years of professional relationships.
+These [[Relationships|relationships]] are infrastructure. When you change jobs, [[Networking|this network]] is often more valuable than the technical skills you've accumulated, because you can learn a new building type but you can't instantly recreate years of professional relationships.
 
 ## What This Means for Engineers
 
@@ -76,3 +76,8 @@ This is harder than just "knowing stuff." It requires self-awareness, humility, 
 An energy engineer who understands this will produce better work, avoid costly mistakes, and build a more sustainable career than one who tries to master every specialty in isolation. And an employer who understands this will build better projects and retain better people.
 
 The multidisciplinary nature of energy engineering isn't a bug—it's the feature. But it only works when everyone involved has realistic expectations about what one person can know, and what they need help with.
+
+---
+# See Also
+- [[Relationships]]
+- [[Networking]]

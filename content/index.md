@@ -12,6 +12,9 @@ title: Welcome Energy Engineers
 > 
 > **Important Notice:** The information provided on this site is for educational and informational purposes only. Nothing contained in these resources should be construed as legal, financial, engineering, or professional advice. Users are encouraged to consult with qualified professionals for specific guidance related to their circumstances. **Use of this information is at your own risk.** Contributors and the AEE San Diego chapter assume no liability for any actions taken based on the information provided herein.
 
+> [!important]
+> Engineering is an important and learned profession. As members of this profession, engineers are expected to exhibit the highest standards of honesty and [[Integrity|integrity]]. Engineering has a direct and vital impact on the quality of life for all people. Accordingly, the services provided by engineers require honesty, impartiality, fairness, and equity, and must be dedicated to the protection of the public health, safety, and welfare. Engineers must perform under a standard of [[Board for Professional Engineers, Land Surveyors, and Geologists#Code of Professional Conduct|professional behavior]] that requires adherence to the highest principles of [[Ethics|ethical]] conduct.
+
 This member resource site contains career insights and technical resources compiled by energy engineering professionals in the [[San Diego]] region.
 
 ---
