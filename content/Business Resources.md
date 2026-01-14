@@ -16,6 +16,7 @@
 - **How Utilities Make Money** - Rate structures, regulatory frameworks, why they fund efficiency programs
 - **How Manufacturers Make Money** - Product margins, distribution channels, why they need engineers
 - **Understanding Your Employer's Business Model** - Applying the concepts to wherever you work
+- [[Competitive Positioning]]
 
 # Sales and Business Development (For Engineers)
 ---

@@ -86,6 +86,10 @@ Not always considered a distinct design phase, but contractors review the constr
 > [!warning]
 > **For Energy Engineers:** When you ask for a "design" or "cost estimate," which phase are you really asking about? A schematic-level estimate will be very different from a construction document-level estimate. Similarly, trying to finalize energy savings calculations during schematic design often means making assumptions that will change as the design develops.
 
+## As-Built Drawings
+
+
+
 ---
 # UCSD Definitions
 

@@ -1,5 +1,6 @@
 # Employment
 
+- [[AEE Certifications for San Diego Career Advancement]]
 - [[Working for Others]] / Finding a job with a [[San Diego Employers|San Diego employer]]
 - [[Working for Yourself]] / [[Starting a Business]]
 - [[Making it Work - The Reality of Employment]]
@@ -46,4 +47,4 @@ Many successful energy engineers hold both PE licensure and one or more AEE cert
 
 ---
 # See Also
-- [[Networking]]
+- [[Relationships]] and [[Networking]]

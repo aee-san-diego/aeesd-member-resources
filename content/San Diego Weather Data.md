@@ -1,8 +1,13 @@
 > [!NOTE]
 > To be [[Code Compliance|code compliant]] in San Diego, analyses need to be based on climate zones as recognized by the California Energy Commission - which vary from other sources. However, within a CEC climate zone, energy engineers may improve their analysis by obtaining data from weather stations located either more nearby their project site or from a weather station in a microclimate that is similar to the project site - where the data from the CEC climate zone is too general to reflect the variation in project site conditions due to it being in a microclimate.
 
+> [!tip]
+> If you're looking for data to calculate cooling and heating loads, see: [[HVAC Outdoor Design Conditions]]
+
 ---
 # California Energy Commission Climate Zones
+
+![[CEC_Climate_Zones.jpeg]]
 
 The California Energy Commission / [[Title 24|California Energy Code]] account for variations in weather across California using a set of 16 climate zones.
 
@@ -48,3 +53,24 @@ Dry and hot daytime conditions combine with cold nighttime temperatures in the D
 ASHRAE publishes several resources for working with weather data:
 https://www.ashrae.org/technical-resources/bookstore/weather-data-center
 
+> [!NOTE]
+> As recently at 2025, the [[Title 24]] Reference Appendices provide [[HVAC Outdoor Design Conditions|design data]] for California which is based on:
+> 
+> ```
+> "ASHRAE Climatic Data for Region X, Arizona, California, Hawaii and Nevada," Publication SPCDX, 1982 and “Supplement,” 1994
+> ```
+> 
+> This is interesting because the data is, at minimum, over 30 years old and at this point, in relation to [[Climate Change]], its validity is debatable. 
+> 
+> See: [[Suggestions for Improving Title 24]]
+
+**ASHRAE Technical Committee **
+
+Ongoing development of weather data is facilitated by ASHRAE Technical Committee 4.2: Climatic Information
+
+- Scope: TC 4.2 identifies, researches, analyzes, and disseminates climatic data for design of sustainable built environments.
+
+---
+# See Also
+- [[HVAC Outdoor Design Conditions]]
+- [[HVAC Load Calculations]]

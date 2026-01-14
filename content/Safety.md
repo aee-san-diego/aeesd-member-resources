@@ -1,8 +1,10 @@
+# Your Safety
+
 > [!danger]
 > Since 2000, an average of 439 workers die each year in California as a result of fatal occupational injuries.  
 
 Being in the field, and especially in existing buildings in various states of repair/disrepair, as an energy engineer exposes you to many occupational hazards. It's important that you receive training and personal protective equipment from your employer to perform your work safely - especially at a customer's facility. 
-# Commercial Pressure & The "Get It Done" Trap
+## Commercial Pressure & The "Get It Done" Trap
 
 Energy engineers frequently encounter "blind" site visits—RFP job walks or preliminary audits where site conditions are unknown until you arrive. You may find yourself standing at the base of a roof access point with the wrong ladder, or no ladder at all, facing a critical decision.
 
@@ -35,14 +37,14 @@ This is a **Goal Conflict**: The goal of *Safety* is directly competing with the
 > Never risk your physical safety for a project.
 
 ---
-# Resources
+## Resources
 
 - [California Department of Public Health - Occupational Safety Branch]([Occupational Health Branch](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/Pages/OHB.aspx))
 - [CDPH Fatality Assessment & Control Evaluation Program]([California Fatality Assessment and Control Evaluation Program](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/FACE/Pages/FACE.aspx))
 - [Cal/OSHA]([Cal/OSHA - Division of Occupational Safety and Health - Home Page](https://www.dir.ca.gov/dosh/))
 
 ---
-# Fall Hazards
+## Fall Hazards
 
 - On Monday April 6, 2009, at approximately 2:00 p.m., a 46-year-old electrical worker died when he fell through a skylight approximately 40 feet to the ground below. ==He was installing solar panels== on the roof of a warehouse when the incident occurred. See incident report: [[09CA003.pdf]]
 - On Wednesday, July 27, 2016, at approximately 2:30 p.m., ==a 33-year-old male HVAC contractor died== when he fell approximately 20 feet through a skylight while working alone on an adjacent rooftop AC unit. See incident report: [[16CA005.pdf]]
@@ -51,14 +53,14 @@ This is a **Goal Conflict**: The goal of *Safety* is directly competing with the
 Energy engineers are frequently climbing ladders to inventory rooftop HVAC equipment, evaluating roof conditions for solar PV and building envelope upgrades, or using "A Frame" ladders to identify lighting systems.
 
 ---
-# Electrical Hazards
+## Electrical Hazards
 
 - On August 22, 2006, at approximately 3:30 p.m., a 43-year-old electrician died when he was electrocuted while repairing ==a lighting circuit that had been damaged by a contractor doing building renovations==. See incident report: [[cdc_166234_DS1.pdf]]
 
 ---
-# San Diego Incidents
+## San Diego Incidents
 
-## 2024 Battery Fire
+### 2024 Battery Fire
 
 A fire inside a San Diego Gas & Electric battery storage facility in Escondido on Thursday ignited lithium-ion batteries in a storage container and prompted the evacuation of about 500 businesses.
 
@@ -70,7 +72,7 @@ Sources:
 - https://www.firehouse.com/operations-training/news/55138200/fire-at-escondido-ca-battery-storage-facility-could-burn-for-two-days
 - https://www.latimes.com/business/story/2023-10-12/battery-storage-is-a-key-piece-of-californias-clean-energy-transition-but-theres-a-problem-with-fires
 
-## 2023 Legionella Death 
+### 2023 Legionella Death 
 
 - Dr. Michael J. Buono was a professor at SDSU for more than 40 years in the Exercise and Nutritional Sciences program. He passed away Saturday, March 4th, 2023 from Legionella pneumonia (Legionnaires’ disease).
 - SDSU closed the building(s) to perform testing and found Legionella pneumophila, the bacteria that causes the disease, in three samples collected along a water line in an annex adjacent to the university’s Exercise and Nutritional Sciences building.
@@ -85,3 +87,13 @@ Sources:
 - https://ens.sdsu.edu/news/2023/the-passing-of-dr-michael-j-buono
 - https://www.kpbs.org/news/local/2023/02/13/sdsu-investigating-case-legionnaires-disease-closes-ens-building-campus
 - https://www.eastcountymagazine.org/passages-sdsu-professor-dies-legionnaire%E2%80%99s-disease
+
+---
+# Technical Considerations
+
+- [[Code Compliance]]
+- [[Data Acquisition]] and logging
+- Arc flash protection
+- Duct smoke detectors
+- Boiler emergency shutoff and combustion air
+- (Chiller) refrigerant leak detection
