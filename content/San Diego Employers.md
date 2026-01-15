@@ -22,13 +22,6 @@
 # Engineering Firms
 ---
 
-- AESC / Franklin Energy ✅
-- [ICF]([Energy Efficiency Consulting | ICF](https://www.icf.com/work/utilities/efficiency-programs))
-- [Redhorse]([Redhorse Corporation – Great Ideas for Shared Success](https://redhorsecorp.com/))
-- Salas O'Brien
-- Tetra Tech
-- Willdan ✅
-
 See also: [[San Diego Engineering Firms]]
 # Contractors
 ---
@@ -102,8 +95,9 @@ See also: [[San Diego Contractors]]
 # Real Estate
 ---
 
+- BioMed Realty ✅
 - CBRE
-- Jones Lang LaSalle
+- Jones Lang LaSalle ✅
 - Livcor ✅
 - Tishman Spear
 
